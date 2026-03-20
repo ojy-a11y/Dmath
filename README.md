@@ -5,7 +5,7 @@
 3.  NOT P IFF Q: $\neg P \leftrightarrow Q$
 4.  모든 x에 대해 P(x): $(\forall x) P(x)$
 5.  x가 존재하며, Q(x)가 아닙니다: $(\exists x) \neg Q(x)$
-6.  만약 P라면 Q는 P가 아니거나 또는 Q인 것과 동치입니다: $P \to Q \equiv \neg P \lor Q$
+6.  만약 P라면 Q는 P가 아니거나 또는 Q인 것과 동치입니다:$P\to Q \equiv \neg P \lor Q$
 7.  오일러의 공식: $e^{i\pi} + 1 = 0$
 8.  1에서 100까지 n의 합: $\sum_{n=1}^{100} n = 5050$
 
