@@ -9,6 +9,8 @@
 7.  Euler's Identity: $e^{i\pi} + 1 = 0$
 8.  SUM of n from 1 to 100 Equals 5050: $\sum\limits_{n=1}^{100} n = 5050$
 
+
+**Translate the following into statements of propositional logic**
 1.  If I do not study, then I will only pass the course if the professor accepts bribes.: $\neg p \to (q \to r)$
 2.  If the professor accepts bribes, then I do not study.: $r \to \neg p$
 3.  The professor does not accept bribes, but I study and will pass the course.: $\neg r \land p \land q$
