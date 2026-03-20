@@ -1,7 +1,7 @@
 # Dmath
 이산수학 과제
 1.	IF (P AND Q) THEN R: $(P \land Q) \to R$
-2. ((P XOR Q) OR R : $(P \oplus Q) \lor R)$
+2. ((P XOR Q) OR R: $(P \oplus Q) \lor R$
 3.  NOT P IFF Q: $\neg P \leftrightarrow Q$
 4.  FOR ALL x, P(x): $(\forall x) P(x)$
 5.  THERE EXISTS AN x, NOT Q(x): $(\exists x) \neg Q(x)$
